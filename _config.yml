@@ -17,12 +17,12 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 # Site Settings
 locale                   : "ko-KR"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
-title                    : "샵온"
+title                    : "테스트너리"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "shopon"
-description              : "좋은 상품정보"
-url                      : "https://mmistakes.github.io"
+name                     : "testnary1"
+description              : "믿고 보는 리뷰 도감"
+url                      : "https://testnary1.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
@@ -84,7 +84,7 @@ google:
 # SEO Related
 google_site_verification :
 bing_site_verification   :
-naver_site_verification  : 
+naver_site_verification  : 8c79fffc6bf605ab7487ce79eb1fa2c28da533b7
 yandex_site_verification :
 baidu_site_verification  :
 
@@ -113,9 +113,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "샵온"
+  name             : "테스트너리"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "상품의 상세정보 및 리뷰를보고 구매하세요"
+  bio              : "솔직한 리뷰! 다양한 제품을 검증해 드립니다."
   location         : "Somewhere"
   email            :
   links:
